@@ -1,0 +1,2 @@
+gksudo gedit /etc/apache2/sites-available/mysite.conf
+ <Directory /var/www/>to<Directory/home user/public_html/>
